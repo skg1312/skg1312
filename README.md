@@ -14,8 +14,7 @@ I am a passionate software developer with a keen interest in open source contrib
 ---
 
 ### 🛠️ Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,python,java,cpp,git,github,docker,kubernetes,aws,linux,figma,azure,gcp)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,python,java,cpp,git,github,docker,kubernetes,aws,linux,figma,azure,gcp,mongodb,flask,numpy,pandas,tensorflow,postgresql,r)](https://skillicons.dev)
 ---
 
 ### 📊 GitHub Stats:
@@ -34,6 +33,30 @@ I am a passionate software developer with a keen interest in open source contrib
 
 ---
 
+### 🌟 Visitor Badge:
+![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=skg1312.skg1312)
+
+---
+
+### 🗓️ GitHub Activity Graph:
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=skg1312&theme=radical)
+
+---
+
+### 📈 Contribution Graph:
+[![Contribution Graph](https://github-contributor-stats.vercel.app/api?username=skg1312)](https://github.com/skg1312)
+
+---
+
+### 👥 Followers Badge:
+![GitHub Followers](https://img.shields.io/github/followers/skg1312?label=Followers&style=social)
+
+---
+
+### 📁 Repositories Badge:
+![GitHub Repositories](https://img.shields.io/badge/Repositories-10-blue?style=flat-square&logo=github)
+
+---
 ### 📫 Connect with me:
 [![Linkedin Badge](https://img.shields.io/badge/-SaiKumarGuduru-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/skg1312/)](https://www.linkedin.com/in/skg1312/)
 [![Gmail Badge](https://img.shields.io/badge/-saikumar.guduru@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:skg.13.edu@gmail.com)](mailto:skg.13.edu@gmail.com)

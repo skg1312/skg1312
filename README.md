@@ -8,7 +8,7 @@ I am a passionate software developer with a keen interest in open source contrib
 - 👯 I’m looking to collaborate on **MERN stack projects**
 - 🤔 I’m looking for help with **advanced cloud computing topics**
 - 💬 Ask me about **MERN stack, Cloud Engineering, and Big Data Analytics**
-- 📫 How to reach me: **saikumar.guduru@example.com**
+- 📫 How to reach me: **skg.13.edu@gmail.com**
 - ⚡ Fun fact: **I love exploring new technologies and solving complex problems**
 
 ---

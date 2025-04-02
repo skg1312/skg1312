@@ -92,3 +92,10 @@ I am a passionate software developer with a keen interest in open source contrib
   - Future Ready Talent project.
   - Created a solution for learning new technologies, providing resources like roadmaps, programming books, official notes, general opportunities, and Tech Events.
   - Utilized Bootstrap, Azure Bot Service, Azure Cognitive Services, and Static Web Apps.
+
+---
+
+### 📱 GitHub Profile QR Code:
+![QR Code](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/skg1312)
+
+---

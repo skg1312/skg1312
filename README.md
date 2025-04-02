@@ -14,7 +14,7 @@ I am a passionate software developer with a keen interest in open source contrib
 ---
 
 ### 🛠️ Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,python,java,cpp,git,github,docker,kubernetes,aws,linux,devops,figma,azure,gcp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,python,java,cpp,git,github,docker,kubernetes,aws,linux,figma,azure,gcp)](https://skillicons.dev)
 
 ---
 

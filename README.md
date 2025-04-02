@@ -49,17 +49,6 @@ I am a passionate software developer with a keen interest in open source contrib
 
 ---
 
-### 📂 Pinned Repositories
-
-<a href="https://github.com/skg1312/repo1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=skg1312&Digitization-of-Medical-Records-using-OCR=Digitization-of-Medical-Records-using-OCR&theme=radical" />
-</a>
-<a href="https://github.com/skg1312/repo2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=skg1312&Slot-Finder-=Slot-Finder-&theme=radical" />
-</a>
-
----
-
 ### 🎓 Education:
 - **PG Diploma in Big Data Analytics**  
   CDAC Bangalore  

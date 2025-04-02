@@ -1,4 +1,7 @@
-# Hi there, I'm Sai Kumar Guduru 👋
+<strong>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+sAI+kumar+guduru;Welcome+to+my+GitHub+profile!;I+love+open+source+contributions;Let's+collaborate+and+create+awesome+projects!">
+</p>
+</strong>
 
 ### 👨‍💻 About Me:
 I am a passionate software developer with a keen interest in open source contributions and innovative technologies. I love to collaborate with other developers and work on exciting projects.

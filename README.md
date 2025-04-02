@@ -16,15 +16,14 @@ I am a passionate software developer with a keen interest in open source contrib
 ### 🛠️ Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,python,java,cpp,git,github,docker,kubernetes,aws,linux,figma,azure,gcp,mongodb,flask,tensorflow,postgresql,r)](https://skillicons.dev)
 ---
+### 🔥 Streak Stats:
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=skg1312&theme=radical)](https://git.io/streak-stats)
+
+---
 
 ### 📊 GitHub Stats:
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=skg1312&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skg1312&layout=compact&theme=radical)
-
----
-
-### 🔥 Streak Stats:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=skg1312&theme=radical)](https://git.io/streak-stats)
 
 ---
 

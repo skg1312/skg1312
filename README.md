@@ -14,7 +14,7 @@ I am a passionate software developer with a keen interest in open source contrib
 ---
 
 ### 🛠️ Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,python,java,cpp,git,github,docker,kubernetes,aws,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,python,java,cpp,git,github,docker,kubernetes,aws,linux,devops,figma,azure,gcp)](https://skillicons.dev)
 
 ---
 
@@ -35,33 +35,19 @@ I am a passionate software developer with a keen interest in open source contrib
 ---
 
 ### 📫 Connect with me:
-[![Linkedin Badge](https://img.shields.io/badge/-SaiKumarGuduru-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saikumarguduru/)](https://www.linkedin.com/in/saikumarguduru/)
-[![Gmail Badge](https://img.shields.io/badge/-saikumar.guduru@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:saikumar.guduru@gmail.com)](mailto:saikumar.guduru@gmail.com)
-
----
-
-### 📘 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Post Title](https://yourblog.com/post-url)
-- [Post Title](https://yourblog.com/post-url)
-- [Post Title](https://yourblog.com/post-url)
-<!-- BLOG-POST-LIST:END -->
+[![Linkedin Badge](https://img.shields.io/badge/-SaiKumarGuduru-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/skg1312/)](https://www.linkedin.com/in/skg1312/)
+[![Gmail Badge](https://img.shields.io/badge/-saikumar.guduru@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:skg.13.edu@gmail.com)](mailto:skg.13.edu@gmail.com)
 
 ---
 
 ### 📂 Pinned Repositories
 
 <a href="https://github.com/skg1312/repo1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=skg1312&repo=repo1&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=skg1312&repo=Digitization-of-Medical-Records-using-OCR&theme=radical" />
 </a>
 <a href="https://github.com/skg1312/repo2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=skg1312&repo=repo2&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=skg1312&repo=Slot-Finder-&theme=radical" />
 </a>
-
----
-
-### 📝 License
-This profile is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more details.
 
 ---
 
